@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933436923771",
+    "project_id": "sama-alerts",
+    "storage_bucket": "sama-alerts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933436923771:android:cdc8d955e892342422e7de",
+        "android_client_info": {
+          "package_name": "com.example.samafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpcvKRLcQ-eO2CfYLKqo9mgUi799WxTvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
